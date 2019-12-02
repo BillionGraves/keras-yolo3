@@ -1,0 +1,1 @@
+<annotation><filename>27999197.jpg</filename><folder>Train</folder><size><width>2160</width><height>3840</height><depth>3</depth></size><object><name>obelisk</name><pose>Unspecified</pose><bndbox><xmin>641</xmin><ymin>914</ymin><xmax>1489</xmax><ymax>2580</ymax></bndbox></object></annotation>

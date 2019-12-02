@@ -70,10 +70,13 @@ def _main_(args):
         # the main loop
         batch_size  = 1
         images      = []
-        start_point = 0 #%
-        show_window = False
+        start_point = 0
+        show_window = True
         for i in tqdm(range(nb_frames)):
             _, image = video_reader.read()
+
+            if (image is None):
+                break
 
             if (float(i+1)/nb_frames) > start_point/100.:
                 images += [image]

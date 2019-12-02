@@ -1,0 +1,1 @@
+<annotation><filename>19473996.jpg</filename><folder>Train</folder><size><width>1600</width><height>1196</height><depth>3</depth></size><object><name>upright</name><pose>Unspecified</pose><bndbox><xmin>126</xmin><ymin>315</ymin><xmax>1404</xmax><ymax>871</ymax></bndbox></object></annotation>

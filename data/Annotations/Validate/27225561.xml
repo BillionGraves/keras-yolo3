@@ -1,0 +1,1 @@
+<annotation><filename>27225561.jpg</filename><folder>Validate</folder><size><width>1536</width><height>2048</height><depth>3</depth></size><object><name>statue</name><pose>Unspecified</pose><bndbox><xmin>379</xmin><ymin>151</ymin><xmax>1285</xmax><ymax>1853</ymax></bndbox></object></annotation>
