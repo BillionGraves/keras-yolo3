@@ -3,3 +3,4 @@
 *.weights
 *.h5
 *.tflite
+*.mp4
